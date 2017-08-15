@@ -1,4 +1,4 @@
-# lol-riot-api
+# lol-stats-api
 [![NPM](https://nodei.co/npm/lol-stats-api.png)](https://nodei.co/npm/lol-stats-api/)
 
 [![npm version](https://badge.fury.io/js/lol-stats-api.svg)](https://badge.fury.io/js/lol-stats-api)
@@ -7,10 +7,10 @@
 A configurable League of Legends API. It uses the official [developer's API](https://developer.riotgames.com/) offered by [Riot Games](https://www.riotgames.com), so you will need an API key to be able to use it. [Here](https://developer.riotgames.com/api/methods)'s the complete documentation of their API. In the documentation below there will be references to the official methods used for each route.
 
 ## Download
-lol-riot-api is installable via:
+lol-stats-api is installable via:
 
 - [GitHub](https://github.com/danielsogl/lol-stats-api) `git clone https://github.com/danielsogl/lol-stats-api.git`
-- [npm](https://www.npmjs.com/package/lol-stats-api): `npm install lol-riot-api`
+- [npm](https://www.npmjs.com/package/lol-stats-api): `npm install lol-stats-api`
 
 ## Getting started
 To start the API server run the following command:
