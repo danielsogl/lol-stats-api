@@ -4,7 +4,7 @@ A configurable League of Legends API. It uses the official [developer's API](htt
 ## Download
 lol-riot-api is installable via:
 
-- [GitHub](https://github.com/Pupix/lol-riot-api) `git clone https://github.com/Pupix/lol-riot-api.git`
+- [GitHub](https://github.com/danielsogl/lol-stats-api) `git clone https://github.com/danielsogl/lol-stats-api.git`
 - [npm](https://www.npmjs.com/): `npm install lol-riot-api`
 
 ## Getting started

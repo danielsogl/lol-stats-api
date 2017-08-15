@@ -1,47 +1,37 @@
 {
-  "name": "lol-riot-api",
+  "name": "lol-stats-api",
   "license": "MIT",
   "description": "A configurable League of Legends API",
-  "version": "3.0.2",
-  "homepage": "https://github.com/Pupix/lol-riot-api",
-  "author": "Robert Manolea <manolea.robert@gmail.com>",
-  "contributors": [
-    {
-      "name": "Robert Manolea",
-      "email": "manolea.robert@gmail.com"
-    },
-    {
-      "name": "Daniel Sogl",
-      "email": "mytechde@outlook.com"
-    }
-  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/danielsogl/lol-stats-api",
+  "author": "Daniel Sogl",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pupix/lol-riot-api.git"
+    "url": "https://github.com/danielsogl/lol-stats-api.git"
   },
   "bugs": {
-    "url": "https://github.com/Pupix/lol-riot-api/issues"
+    "url": "https://github.com/danielsogl/lol-stats-api/issues"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "resetconfig": "node resetconfig.js"
   },
   "dependencies": {
-    "apicache": "0.8.6",
-    "cors": "2.8.3",
-    "expandjs": "1.1.0",
-    "express": "4.15.2",
-    "express-rate-limit": "2.8.0",
-    "fs-extra": "3.0.1",
-    "helmet": "3.6.1",
-    "inquirer": "3.0.6",
-    "lol-riot-api-module": "3.0.0",
-    "redis": "2.7.1"
+    "apicache": "0.8.7",
+    "cors": "2.8.4",
+    "expandjs": "1.1.1",
+    "express": "4.15.4",
+    "express-rate-limit": "2.9.0",
+    "fs-extra": "4.0.1",
+    "helmet": "3.8.1",
+    "inquirer": "3.2.1",
+    "lol-stats-api-module": "1.0.0",
+    "redis": "2.8.0"
   },
   "keywords": [
     "league of legends",
     "lol",
     "api",
     "riot games"
-  ],
-  "scripts": {
-    "start": "node index.js",
-    "resetconfig": "node resetconfig.js"
-  }
+  ]
 }
