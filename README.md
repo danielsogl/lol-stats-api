@@ -27,7 +27,7 @@ npm run resetconfig
 
 ## Documentation
 
-The API's calls are mapped to various API methods from [Riot Game's documentation](https://developer.riotgames.com/api/methods). All URLs can accept `apiKey` and `region` as **query string parameters**, if you want to do calls for a different **region** or with a **different key** than the specified defaults.
+The API's calls are mapped to various API methods from [Riot Game's documentation](https://developer.riotgames.com/api-methods/). All URLs can accept `apiKey` and `region` as **query string parameters**, if you want to do calls for a different **region** or with a **different key** than the specified defaults.
 
 ### Routes
 
