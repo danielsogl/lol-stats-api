@@ -2,7 +2,7 @@
   "name": "lol-stats-api",
   "license": "MIT",
   "description": "A configurable League of Legends API",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/danielsogl/lol-stats-api",
   "author": "Daniel Sogl",
   "repository": {
@@ -17,14 +17,14 @@
     "resetconfig": "node resetconfig.js"
   },
   "dependencies": {
-    "apicache": "0.8.7",
+    "apicache": "0.9.0",
     "cors": "2.8.4",
     "expandjs": "1.1.1",
     "express": "4.15.4",
     "express-rate-limit": "2.9.0",
     "fs-extra": "4.0.1",
     "helmet": "3.8.1",
-    "inquirer": "3.2.1",
+    "inquirer": "3.2.2",
     "lol-stats-api-module": "1.0.2",
     "redis": "2.8.0"
   },
