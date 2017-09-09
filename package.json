@@ -17,7 +17,7 @@
     "resetconfig": "node resetconfig.js"
   },
   "dependencies": {
-    "apicache": "^0.11.1",
+    "apicache": "^0.11.2",
     "cors": "^2.8.4",
     "expandjs": "^1.1.1",
     "express": "^4.15.4",
