@@ -2,7 +2,7 @@
   "name": "lol-stats-api",
   "license": "MIT",
   "description": "A configurable League of Legends API",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "homepage": "https://github.com/danielsogl/lol-stats-api",
   "author": "Daniel Sogl",
   "repository": {
