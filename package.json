@@ -24,7 +24,7 @@
     "fs-extra": "^4.0.2",
     "helmet": "^3.8.1",
     "inquirer": "^3.2.3",
-    "lol-stats-api-module": "^1.0.2",
+    "lol-stats-api-module": "^1.0.3",
     "redis": "^2.8.0"
   },
   "keywords": [
