@@ -17,14 +17,14 @@
     "resetconfig": "node resetconfig.js"
   },
   "dependencies": {
-    "apicache": "^1.0.0",
+    "apicache": "^1.1.0",
     "cors": "^2.8.4",
     "expandjs": "^1.1.1",
-    "express": "^4.15.4",
+    "express": "^4.16.1",
     "fs-extra": "^4.0.2",
-    "helmet": "^3.8.1",
+    "helmet": "^3.8.2",
     "inquirer": "^3.3.0",
-    "lol-stats-api-module": "^1.0.3",
+    "lol-stats-api-module": "^1.0.4",
     "redis": "^2.8.0"
   },
   "keywords": [
