@@ -20,11 +20,11 @@
     "apicache": "^1.1.0",
     "cors": "^2.8.4",
     "expandjs": "^1.1.1",
-    "express": "^4.16.1",
+    "express": "^4.16.2",
     "fs-extra": "^4.0.2",
-    "helmet": "^3.8.2",
+    "helmet": "^3.9.0",
     "inquirer": "^3.3.0",
-    "lol-stats-api-module": "^1.0.4",
+    "lol-stats-api-module": "^1.0.5",
     "redis": "^2.8.0"
   },
   "keywords": [
